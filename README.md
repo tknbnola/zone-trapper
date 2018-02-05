@@ -17,20 +17,16 @@ Once the project moves into development, the press release can be used as a touc
  -->
  
 ## ZoneTrapper ##
-  > Name the product in a way the reader (i.e. your target customers) will understand.
 
 ## Summary ##
-  > Give a summary of the product and the benefit. Assume the reader will not read anything else so make this paragraph good.
 
   This app is intended for the independent worker that needs to focus or the teacher that needs to keep his/her students on task.
 
 ## Problem ##
-  > Describe the problem your product solves.
 
   The problem with many of life's tasks is getting started.
   Many of us tend to spend entirely too much time searching for the right music to get us into our productive flow. This ailment has been labeled the 'Netflixtion'.
 ## Solution ##
-  > Describe how your product elegantly solves the problem.
 
   This application takes away the hurdle of finding music
   to get started with by making suggestions to the user and changing them should they not like what's been suggested.
@@ -39,16 +35,13 @@ Once the project moves into development, the press release can be used as a touc
   > 'Best time savor, I find my zone effortlessly!'
 
 ## How to Get Started ##
-  > Describe how easy it is to get started.
 
   Its as easy as going to the site.
 
 ## Customer Quote ##
-  > Provide a quote from a hypothetical customer that describes how they experienced the benefit.
 
   'Soon as I got to the site, I was given a song. When I liked it, it built me an entire playlist around it. Super simple and it didn't take me forever.'
 
 ## Closing and Call to Action ##
-  > Wrap it up and give pointers where the reader should go next.
 
   There's a song for everyone and a playlist to match. When you find a song you like, we'll build you a custom playlist to keep that groove going. If you don't like a song, the app will continually rebuild the list.
